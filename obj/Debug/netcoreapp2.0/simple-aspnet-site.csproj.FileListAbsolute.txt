@@ -1,0 +1,10 @@
+C:\Users\Michael Henderson\Desktop\simple-aspnet-site\bin\Debug\netcoreapp2.0\simple-aspnet-site.deps.json
+C:\Users\Michael Henderson\Desktop\simple-aspnet-site\bin\Debug\netcoreapp2.0\simple-aspnet-site.runtimeconfig.json
+C:\Users\Michael Henderson\Desktop\simple-aspnet-site\bin\Debug\netcoreapp2.0\simple-aspnet-site.runtimeconfig.dev.json
+C:\Users\Michael Henderson\Desktop\simple-aspnet-site\bin\Debug\netcoreapp2.0\simple-aspnet-site.dll
+C:\Users\Michael Henderson\Desktop\simple-aspnet-site\bin\Debug\netcoreapp2.0\simple-aspnet-site.pdb
+C:\Users\Michael Henderson\Desktop\simple-aspnet-site\obj\Debug\netcoreapp2.0\simple-aspnet-site.csproj.CoreCompileInputs.cache
+C:\Users\Michael Henderson\Desktop\simple-aspnet-site\obj\Debug\netcoreapp2.0\simple-aspnet-site.AssemblyInfoInputs.cache
+C:\Users\Michael Henderson\Desktop\simple-aspnet-site\obj\Debug\netcoreapp2.0\simple-aspnet-site.AssemblyInfo.cs
+C:\Users\Michael Henderson\Desktop\simple-aspnet-site\obj\Debug\netcoreapp2.0\simple-aspnet-site.dll
+C:\Users\Michael Henderson\Desktop\simple-aspnet-site\obj\Debug\netcoreapp2.0\simple-aspnet-site.pdb
