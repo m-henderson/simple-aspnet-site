@@ -36,6 +36,13 @@ namespace simple_aspnet_site
                 app.UseExceptionHandler("/Error");
             }
 
+            app.UseForwardedHeaders(new ForwardedHeadersOptions
+            {
+                ForwardedHeaders = ForwardedHeaders.XForwardedFor | ForwardedHeaders.XForwardedProto
+            });
+
+app.UseAuthentication();
+
             app.UseStaticFiles();
 
             app.UseMvc(routes =>
